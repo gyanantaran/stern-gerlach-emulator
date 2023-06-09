@@ -1,3 +1,5 @@
+### For a better reading experience, checkout the docs folder. Toodles!  
+
 ![](assets/images/Aspose.Words.20ab8839-97be-4c33-ba8d-aa0438cc49ce.001.png)
 
 **FM212 – Calculus in Higher Dimensions** 
